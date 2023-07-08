@@ -1,0 +1,47 @@
+[admin.py:29] - 2023-07-04 22:58:17,034 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-04 22:58:17,034 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-04 22:58:17,059 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\Admin\\Downloads\\Luna-Grabber-main (2)\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-07-04 22:58:17,059 - INFO - Running command 'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - '"C:\\Users\\Admin\\Downloads\\Luna-Grabber-main (2)\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-07-04 22:58:19,692 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,915 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,916 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,916 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,916 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,916 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,916 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,917 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,917 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,917 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,917 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,917 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,918 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,919 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,919 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,919 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,919 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:202] - 2023-07-04 22:58:19,919 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1003] - 2023-07-04 23:08:59,504 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:456] - 2023-07-04 23:08:59,840 - DEBUG - https://discord.com:443 "GET /api/webhooks/1125880930821746778/BAJbymMlCYmzYsaV-4fAnYQyQ9DzfWu-SzCjeHsV5YSiiBOQECmNoBoaEq8w8Zy_idHI HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-07-04 23:09:26,510 - INFO - Retrieved filename: builder
+[builder.pyw:391] - 2023-07-04 23:09:26,510 - INFO - Changed filetype: .py
+[builder.pyw:445] - 2023-07-04 23:09:26,512 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-07-04 23:09:26,864 - INFO - Successfully obfuscated file: builder.py
+[builder.pyw:456] - 2023-07-04 23:09:33,603 - INFO - Successfully pumped file: builder.py
+[builder.pyw:425] - 2023-07-04 23:16:59,373 - INFO - Retrieved filename: builder
+[builder.pyw:394] - 2023-07-04 23:16:59,374 - INFO - Changed filetype: pyinstaller
+[builder.pyw:394] - 2023-07-04 23:16:59,374 - INFO - Changed filetype: pyinstaller
+[builder.pyw:445] - 2023-07-04 23:16:59,378 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-07-04 23:16:59,725 - INFO - Successfully obfuscated file: builder.py
+[builder.pyw:489] - 2023-07-04 23:18:18,572 - INFO - Successfully compiled builder.exe with pyinstaller
+[builder.pyw:456] - 2023-07-04 23:18:24,658 - INFO - Successfully pumped file: builder.exe
+[builder.pyw:529] - 2023-07-04 23:18:24,690 - INFO - Successfully removed directory: ./build
+[builder.pyw:538] - 2023-07-04 23:18:24,690 - INFO - Successfully removed file: ./builder.spec
+[builder.pyw:538] - 2023-07-04 23:18:24,691 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:538] - 2023-07-04 23:18:24,692 - INFO - Successfully removed file: ./builder.py
